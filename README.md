@@ -45,7 +45,7 @@ Strapi • Contentful • Sanity • Higraph • Headless architecture
 ## 📈 Current Focus
 
 - Building high-performance React applications with Next.js
-- Exploring the JAM stack for blazing-fast web experiences
+- Exploring the Full stack for blazing-fast web experiences
 - Implementing efficient state management solutions
 - Creating seamless mobile experiences with React Native
 - Optimizing database performance and API architecture
