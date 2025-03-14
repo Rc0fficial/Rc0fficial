@@ -1,7 +1,7 @@
 # Hello, I'm Arsalan Ali Khattak 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourlinkedinurl)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rc0fficial)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge)](https://arsalanalikhattak.com)
 
 ## 🚀 Full Stack Engineer | React Specialist | Modern Web Architect
 
@@ -58,7 +58,7 @@ With 3 years of hands-on experience, I've delivered robust solutions across vari
 
 I'm always open to exciting opportunities, collaborative projects, and discussions about modern web development. Let's create extraordinary digital experiences together!
 
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:youremail@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:to.arsalanali@gmail.com.com)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
 
 ---
