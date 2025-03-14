@@ -58,8 +58,9 @@ With 3 years of hands-on experience, I've delivered robust solutions across vari
 
 I'm always open to exciting opportunities, collaborative projects, and discussions about modern web development. Let's create extraordinary digital experiences together!
 
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:to.arsalanali@gmail.com.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:to.arsalanali@gmail.com)
+[![Fiverr](https://img.shields.io/badge/Fiverr-Hire_Me-1DBF73?style=for-the-badge&logo=fiverr)](https://fiverr.com/arsalanali248)
+[![Upwork](https://img.shields.io/badge/Upwork-Available-6FDA44?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~01cb4cafdefdd00289)
 
 ---
 
