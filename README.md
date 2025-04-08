@@ -1,13 +1,13 @@
-# Hello, I'm Arsalan Ali Khattak 👋
+# Hello, I'm Arsalan Ali Khattak
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rc0fficial)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge)](https://arsalanalikhattak.com)
 
-## 🚀 Full Stack Engineer | React Specialist | Modern Web Architect
+## Full Stack Engineer | React Specialist | Modern Web Architect
 
 I transform ideas into scalable digital experiences with clean code and exceptional user interfaces.
 
-### 🔧 Tech Stack
+### Tech Stack
 
 **Frontend**
 ```
@@ -34,7 +34,7 @@ Firebase • Supabase • AWS • CI/CD • Git workflows
 Strapi • Contentful • Sanity • Higraph • Headless architecture
 ```
 
-## 🔥 What I Do
+## What I Do
 
 - **End-to-end application architecture** with performance-first development
 - **Scalable full-stack applications** built with modern frameworks
@@ -42,7 +42,7 @@ Strapi • Contentful • Sanity • Higraph • Headless architecture
 - **Database optimization** and efficient API design
 - **Streamlined development workflows** that boost team productivity
 
-## 📈 Current Focus
+## Current Focus
 
 - Building high-performance React applications with Next.js
 - Exploring the Full stack for blazing-fast web experiences
@@ -50,11 +50,11 @@ Strapi • Contentful • Sanity • Higraph • Headless architecture
 - Creating seamless mobile experiences with React Native
 - Optimizing database performance and API architecture
 
-## 💼 Experience
+## Experience
 
 With 3 years of hands-on experience, I've delivered robust solutions across various domains, specializing in MERN stack and JAM stack architectures.
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm always open to exciting opportunities, collaborative projects, and discussions about modern web development. Let's create extraordinary digital experiences together!
 
