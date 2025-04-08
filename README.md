@@ -1,5 +1,7 @@
 # Hello, I'm Arsalan Ali Khattak
 
+⭐ **5-star ratings on Fiverr & Upwork** | ✅ **100% completion rate on Upwork & Fiverr**
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rc0fficial)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge)](https://arsalanalikhattak.com)
 
